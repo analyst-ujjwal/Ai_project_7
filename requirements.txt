@@ -1,0 +1,9 @@
+streamlit>=1.20.0
+opencv-python>=4.7.0
+numpy>=1.23.0
+langchain>=0.0.300 # optional, if you use langchain features
+langgraph>=0.0.1 # optional
+llama-cpp-python>=0.1.77 # optional for local LLaMA
+langchain-groq>=0.0.1 # optional for Groq integration (example name)
+python-dotenv
+streamlit-webrtc
